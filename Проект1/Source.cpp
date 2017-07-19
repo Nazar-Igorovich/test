@@ -39,7 +39,7 @@ int main()
 
 	p1.Enter();
 	
-	p1.Print(p1);
+	//p1.Print(p1);
 
 	_getch();
 	return 0;
